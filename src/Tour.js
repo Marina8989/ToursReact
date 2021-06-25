@@ -1,9 +1,9 @@
 import React, { useState } from 'react';
 
-const Tour = () => {
+const Tour = ({id, name, info, image, price}) => {
     return (
         <div>
-            <h2>Tour component</h2>
+            
         </div>
     )
 }
